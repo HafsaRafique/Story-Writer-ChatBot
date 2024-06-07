@@ -18,6 +18,6 @@ You will need to run the following commands in a terminal:
  3. If your authentication key is declared invalid, go to Hugging Face website, to 'Access Tokens'. Click on 'Manage', and refresh token.
  4. You will be taken to a chatbot interface. Enter a prompt, it should be sentence that the bot can complete.
 
-    (https://github.com/HafsaRafique/Story-Writer-ChatBot/chatbot.png)
+    !(https://github.com/HafsaRafique/Story-Writer-ChatBot/chatbot.png)
  
  
