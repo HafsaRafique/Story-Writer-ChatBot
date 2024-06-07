@@ -16,8 +16,8 @@ You will need to run the following commands in a terminal:
  2. Now, enter the terminal and write the following (You may use any port):
     
     chainlit run .\story_writer_bot.py -w --port 8080
- 4. If your authentication key is declared invalid, go to Hugging Face website, to 'Access Tokens'. Click on 'Manage', and refresh token.
- 5. You will be taken to a chatbot interface. Enter a prompt, it should be sentence that the bot can complete.
+ 3. If your authentication key is declared invalid, go to Hugging Face website, to 'Access Tokens'. Click on 'Manage', and refresh token.
+ 4. You will be taken to a chatbot interface. Enter a prompt, it should be sentence that the bot can complete.
 
 <p align="center">
 <img src="https://github.com/HafsaRafique/Story-Writer-ChatBot/raw/main/chatbot.png" alt="Chatbot" width="500"/>
